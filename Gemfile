@@ -7,7 +7,7 @@ gem "activeadmin"
 gem 'ransack'
 gem "devise"
 gem "sassc"
-gem "image_processing", "~> 1.2"
+gem "image_processing", "~> 1.14"
 gem "mini_magick"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
